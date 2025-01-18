@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on web development with php and javascript <br>🌱 I am currently learning front-end development with react and back-end development with nest<br>⚡ Fun fact: I like to make scripts for solutions to common problems and solve problems I find on the web
+🔭 I am currently working on web development with php and javascript <br>🌱 I am currently learning front-end development with react and back-end development with nest<br>⚡ Fun fact: Fun fact: I like to read relevant articles in the field of programming, I play the violin in my free time and I read the occasional science fiction book.
 
 
 ## 🌐 Socials:
