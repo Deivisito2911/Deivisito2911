@@ -51,7 +51,5 @@ Soy un profesional del software especializado en **Automatización de QA** y **D
 </div>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Deivisito2911&icon=0&color=2" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Deivisito2911&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
